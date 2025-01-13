@@ -16,3 +16,6 @@ if a != b :
 
     if (a == 1) != (b == 5):
         print('Hello')
+
+a = int(input("enter anumber"))
+print(0, "is not even number.")
